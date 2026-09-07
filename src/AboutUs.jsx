@@ -4,13 +4,14 @@ import './AboutUs.css';
 function AboutUs() {
   return (
     <div className="about-us-container">
-      <h1 className="about-us-heading">About Us</h1>
+      <h1 className="about-us-heading">About Paradise Nursery</h1>
       <p className="about-us-description">
-        Welcome to Paradise Nursery, your number one source for all house plants. 
-        We are dedicated to giving you the very best green companions for your living spaces.
+        Welcome to Paradise Nursery, your number one destination for high-quality house plants and greenery.
       </p>
       <p className="about-us-content">
-        Our team of plant experts ensures that every plant is nurtured with care, delivering freshness and quality straight to your home.
+        Our mission is to provide affordable, sustainably grown indoor plants to enhance every home and workspace. 
+        Our services include plant care consultation, direct home delivery, and custom selection of air-purifying, 
+        aromatic, and medicinal plants tailored to your lifestyle.
       </p>
     </div>
   );
